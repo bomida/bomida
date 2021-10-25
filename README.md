@@ -1,4 +1,4 @@
-## 👋 Hi there, I am Bomi.
+## 👋 Hi there, I am Bomi
 Welcome to my Profile!<br>
 I am a Graphic Designer and Front-end Developer based in Seoul, South Korea.
 <p>
