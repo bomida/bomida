@@ -4,7 +4,7 @@ I am a Graphic Designer and Front-end Developer based in Seoul, South Korea.
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Bomi-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<p/>
+</p>
 
 ***
 
