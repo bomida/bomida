@@ -16,6 +16,7 @@ I am a Graphic Designer and Front-end Developer based in Seoul, South Korea.
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=PWA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-444444?style=flat-square&logo=Github&logoColor=white"/>
  </p>
 
 #### ⚪️ Tools
@@ -35,5 +36,4 @@ I am a Graphic Designer and Front-end Developer based in Seoul, South Korea.
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Github-444444?style=flat-square&logo=Github&logoColor=white"/>
 </p>
